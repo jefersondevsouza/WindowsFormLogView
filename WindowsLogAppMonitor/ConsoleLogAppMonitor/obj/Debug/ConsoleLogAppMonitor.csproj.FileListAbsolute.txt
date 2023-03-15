@@ -1,0 +1,8 @@
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\bin\Debug\ConsoleLogAppMonitor.exe.config
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\bin\Debug\ConsoleLogAppMonitor.exe
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\bin\Debug\ConsoleLogAppMonitor.pdb
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\obj\Debug\ConsoleLogAppMonitor.csproj.AssemblyReference.cache
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\obj\Debug\ConsoleLogAppMonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\obj\Debug\ConsoleLogAppMonitor.csproj.CoreCompileInputs.cache
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\obj\Debug\ConsoleLogAppMonitor.exe
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\ConsoleLogAppMonitor\obj\Debug\ConsoleLogAppMonitor.pdb

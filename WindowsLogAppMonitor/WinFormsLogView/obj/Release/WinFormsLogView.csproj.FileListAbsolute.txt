@@ -1,0 +1,27 @@
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\LogView.exe.config
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\LogView.exe
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\LogView.pdb
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\MaterialSkin.dll
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.AssemblyReference.cache
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.LogViewForm.resources
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.MaterialFormPrin.resources
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.Properties.Resources.resources
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.GenerateResource.cache
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.CoreCompileInputs.cache
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.CopyComplete
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\LogView.exe
+C:\Users\jsilveira\Desktop\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\LogView.pdb
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\LogView.exe.config
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\LogView.exe
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\LogView.pdb
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\bin\Release\MaterialSkin.dll
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.AssemblyReference.cache
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.MaterialFormPrin.resources
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.Properties.Resources.resources
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.GenerateResource.cache
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.CoreCompileInputs.cache
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.CopyComplete
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\LogView.exe
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\LogView.pdb
+C:\D\GitProjects\Nao esta no Git\Ler Log\ConsoleLogAppMonitor\WinFormsLogView\obj\Release\WinFormsLogView.csproj.SuggestedBindingRedirects.cache
